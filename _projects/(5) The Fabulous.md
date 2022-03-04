@@ -1,7 +1,7 @@
 ---
-name: The Fabulous
-tools: [Android, Material Design]
-image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
-description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
-external_url: https://thefabulous.co/
+name: IMEC - Summer Internship '21
+tools: [UI/UX, Product Design, Figma]
+image: https://miro.medium.com/max/1400/1*jJcVR_pYvXznW4-4y5F-ow.png
+description: Collaborated with developers to ship an educational platform that presents SMEs in the metal manufacturing industry with Industry 4.0 technologies suited for their scale of production.
+external_url: https://www.figma.com/proto/brKAf2HNKPiGfoxPjQ1DOO/IMEC?node-id=690%3A3009&scaling=scale-down-width&page-id=682%3A3564&starting-point-node-id=690%3A3020
 ---

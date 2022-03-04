@@ -1,7 +1,7 @@
 ---
-name: Dummy Project
-tools: [Ignore me]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Covid-19 Map 😷
+tools: [Mobile Development, Java, Python, Android Studio, GMaps API, Flask]
+image: https://miro.medium.com/max/1400/1*hHY6_xWUsW3L5vNWDLkKSA.png
+description: An Android contact tracing application that displays data on where the positive cases are concentrated on campus and alerting end-users within 100m radius to move away.
+external_url: https://github.com/gisellakontaria/covid-19-map
 ---
