@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : gisellakontaria/
-description         : Designer + Developer by day
+description         : <br> Designer + Developer by day,<br>Reader + Runner by heart
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : gisellakontaria/gisellakontaria.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -45,7 +45,7 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+# permalink: /blog/:title
 
 
 ### Collections ###
@@ -56,8 +56,8 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+# disqus:
+#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -74,11 +74,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
+  # - scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     comments: false                                   # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###
