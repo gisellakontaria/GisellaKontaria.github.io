@@ -5,10 +5,9 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
-
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+# **Hey, I'm Gisella, <br> nice to meet you 👋**
+I’d love to chat about anything – from software that provides social good to products and design. I'm passionate about using data as a tool to automate design processes and build great products.
+When I'm not in school, you can find me reading, running, grabbing a Matcha Oat Latte, or binge-watching Netflix!  
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
